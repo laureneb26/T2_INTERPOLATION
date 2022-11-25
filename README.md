@@ -3,6 +3,9 @@ INTERPOLATION OF T2 RELAXATION TIME IN THE ECHO MODULATION CURVE FIT ALGORITHM  
 
 ## INTERPOLATION OF T2 RELAXATION TIME IN THE ECHO MODULATION CURVE FIT ALGORITHM
 
+
+![alt text](https://github.com/laureneb26/T2_INTERPOLATION/blob/main/T2INVIVO.png)
+
 ## SIMULATION DATABASE FOR A MULTI-SE PROTOCOL
 
 _Assumptions : In this work, we will assume a perfectly homogeneous magnetic field B1, as well as T
